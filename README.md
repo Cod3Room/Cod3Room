@@ -7,6 +7,7 @@ Cuando no estoy codificando, disfruto manteniéndome actualizado con las última
 
 Además de mis actividades profesionales y educativas, recientemente comencé a publicar artículos y publicaciones de blog sobre temas que me apasionan en mi blog personal, Code Chronicles . Esto me permite compartir mis pensamientos y conocimientos con una audiencia más amplia y participar en debates significativos con personas de ideas afines. Me entusiasma seguir ampliando mi presencia en línea y conectarme con otras personas que comparten mis intereses.
 
+<p align="center"><img src="https://github-readme-streak-stats-vercel-fpqt-o2e6170hw.vercel.app/?user=cod3Room&mode=weekly" alt="GitHub Streak" /></p>
 <h4 align="center">Languages and Tools</h4>
 
 <p align="center">
