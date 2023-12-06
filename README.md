@@ -34,4 +34,4 @@ Además de mis actividades profesionales y educativas, recientemente comencé a 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garaujodev&theme=flat&column=5" alt="garaujodev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cod3Room&theme=flat&column=5" alt="Co" /></a>Cod3Room </p>
